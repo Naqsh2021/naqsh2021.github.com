@@ -12,4 +12,4 @@ permalink: /about/
 
 ### لمراسلتنا
 
-[email@domain.com](mailto:naqsh2020@gmail.com)
+[naqsh2020@gmail.com](mailto:email@domain.com)
