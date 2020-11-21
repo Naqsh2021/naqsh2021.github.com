@@ -1,6 +1,6 @@
 ---
 layout: page
-title: من أنا
+title: عن نقش
 permalink: /about/
 ---
 
@@ -10,6 +10,6 @@ permalink: /about/
 
 هل لديك معلومات أخرى تريد مشاركتها؟
 
-### لمراسلتي
+### لمراسلتنا
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:naqsh2020@gmail.com)
